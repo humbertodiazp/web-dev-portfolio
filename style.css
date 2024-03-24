@@ -9,6 +9,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  
 }
 
 html {
@@ -368,6 +369,27 @@ article .icon {
 
 #projects {
   position: relative;
+}
+
+.demo {
+  display: flex;
+  gap: 2rem;
+  padding-top: 10px;
+  font-size: small ;
+  color: rgb(85, 85, 85);
+  justify-content: center;
+
+}
+
+.login {
+  padding-left: 10px;
+
+}
+
+
+
+ul {
+  list-style: none;
 }
 
 .color-container {
